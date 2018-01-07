@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/4.3.1">
+    <name>classifieds</name>
+    <id>classifieds</id>
+    <author>Jeff Shockley</author>
+    <description>User Can see classifieds </description>
+    <license>GNU General Public License, version 2</license>
+    <author_url></author_url>
+    <license_url>http://www.zabooba.com/licenses/</license_url>
+    <version>1.0</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>4.3.1</version>
+	</requires>
+</component>
